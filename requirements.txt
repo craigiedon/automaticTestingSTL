@@ -1,0 +1,8 @@
+GPy
+numpy
+scipy
+matplotlib
+dill
+gym
+sb3_contrib
+pydrake
